@@ -28,7 +28,7 @@ namespace Training
       int n2 = Convert.ToInt32(Console.ReadLine());
       Console.WriteLine("Input values are :" + n1 + " and " + n2);
 
-      Console.Write("\nEnter the operator : ");
+      Console.Write("\nEnter the operator :     ");
       char c1 = Convert.ToChar(Console.ReadLine());
 
       //if ( c1=='+')
