@@ -117,7 +117,7 @@ namespace Training
         if (i == 5)
           goto dell;
       }
-    dell: Console.WriteLine("this is go to leble");
+    dell: Console.WriteLine("this is go to lable");
 
      
       Console.ReadLine();
